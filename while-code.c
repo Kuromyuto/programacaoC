@@ -2,7 +2,7 @@
 
 int main(){
 
-    // CALCULADORA
+     // CALCULADORA
     
     // int numero, i;
 
